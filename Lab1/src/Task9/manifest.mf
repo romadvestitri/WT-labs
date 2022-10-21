@@ -1,0 +1,2 @@
+main-class: Task9.Main
+class-path: bin/
